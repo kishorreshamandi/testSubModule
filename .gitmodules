@@ -1,0 +1,3 @@
+[submodule "frontend-ai-ml"]
+	path = frontend-ai-ml
+	url = git@github.com:reshamandi/frontend-ai-ml.git
